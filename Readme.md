@@ -1,1 +1,1 @@
-# TF vs Bicep/ARM Templates
+# [IaC solutions for Azure](https://azure.iac.tf)
